@@ -31,7 +31,7 @@ document.querySelector('.rating-btn').addEventListener('click', () => {
 });
 
 document.querySelector('.food-timer-btn').addEventListener('click', () => {
-  window.open('https://www.figma.com/design/FfJSVs8nPu2afY4DxXzFSe/Food-Timer?node-id=0-1&p=f&t=yD6kaHlLlLE4NuIg-0', '_blank');
+  window.open('https://www.figma.com/design/FfJSVs8nPu2afY4DxXzFSe/Food-Timer?node-id=0-1&t=voMypVNnR5neST8U-1', '_blank');
 });
 
 // Social icons leading to the given links
